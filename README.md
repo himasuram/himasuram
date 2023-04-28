@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himasuram
 - 👀 I’m interested in getting to know the latest machine learning techniques out there!
-- 🌱 I’m currently learning data mining on KNIME and looking to transalate my class projects into R and Python
-- 💞️ I’m looking to collaborate on predictive analytics projects
+- 🌱 I’m currently learning predictive analytics on R and looking to translate to Python
+- 💞️ I’m looking to collaborate on predictive modelling projects
 - 📫 How to reach me - Shoot me a message via LinkedIn (https://www.linkedin.com/in/himasuram/)! 
 
 <!---
